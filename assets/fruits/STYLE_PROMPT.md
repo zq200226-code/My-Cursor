@@ -6,9 +6,10 @@
 
 1. **画风**：商业向 Q 版贴纸 / 手游立绘，干净软描边（偏深棕，不要死黑粗线），软赛璐璐上色，整体明亮高饱和但不过曝。
 2. **比例**：大头小身，头约占全身 1/2～2/5；四肢短圆，手指简化。
-3. **脸**：正常人脸，禁止整颗水果当头。超大闪亮眼睛（多层高光：圆点 + 星芒），小鼻小嘴，淡腮红，表情甜美开朗。
+3. **脸**：正常人脸，禁止整颗水果当头。超大闪亮眼睛（多层高光），小鼻小嘴。同风格，但**每颗水果妆造与表情必须不同**，禁止全员同款甜笑。
 4. **构图**：全身立绘，居中，纯白底；角色与配饰可有白色描边贴纸感；无文字、无水印、无 logo。
 5. **人设逻辑**：角色是“水果精灵偶像”，不是 cos 头套。水果本体作为发饰 + 手持物保留材质；配色从水果主色延伸到发色与服装。
+6. **个性分化（必做）**：根据水果材质、配色、配饰气质设计不同性格，并落到眼型、眼影、腮红、唇形、表情和发型气场上。同系列可一眼认出是一套，但不能妆造表情复制粘贴。
 
 ## 华丽度（本次加码）
 
@@ -27,9 +28,14 @@ Premium commercial chibi anime girl sticker, plain white background, soft dark-b
 
 ## 单张补充句（按水果改）
 
-- **青果冻柑橘**：`mint-to-lime jelly hair sheen; cream-and-mint layered dress with translucent jelly-like organza that glows softly; green bats and mint four-point stars as familiars; holds a glossy translucent citrus.`
-- **粉晶体桃**：`soft pink hair with gemlike sheen; rose dress with crystal-facet trim and heart gems; holds ornate glass sundae coupe; stands on a pale-blue magic circle; soap bubbles.`
-- **蓝水晶草莓**：`platinum-to-aqua hair with water-crystal sheen; aqua jelly-crystal translucent dress with soft inner glow; rainbow sepal accents; holds pink-blue spiral lollipop with pink bow; soap bubbles with pink stars.`
+- **青果冻柑橘**：`mint-to-lime jelly hair sheen; cream-and-mint layered dress with translucent jelly-like organza that glows softly; green bats and mint four-point stars as familiars; holds a glossy translucent citrus. Personality: playful mischievous idol — cat-eye mint makeup, sharper outer lashes, asymmetric smile or wink, livelier pose.`
+- **粉晶体桃**：`soft pink hair with gemlike sheen; rose dress with crystal-facet trim and heart gems; holds ornate glass sundae coupe; stands on a pale-blue magic circle; soap bubbles. Personality: soft sweet dessert idol — round eyes, heavy soft blush, heart-shaped eye highlights, gentle closed-mouth smile.`
+- **蓝水晶草莓**：`platinum-to-aqua hair with water-crystal sheen; aqua jelly-crystal translucent dress with soft inner glow; rainbow sepal accents; holds pink-blue spiral lollipop with pink bow; soap bubbles with pink stars. Personality: cool dreamy candy spirit — slender clear aqua eyeshadow, pale lips, calm curious expression, quieter elegance.`
+
+## 妆造表情差异模板
+
+在英文底模后追加一句，例如：
+`Unique makeup and expression matching this fruit's personality: [性格]. Do not reuse the same smile/makeup as other fruit girls.`
 
 ## 禁止
 
