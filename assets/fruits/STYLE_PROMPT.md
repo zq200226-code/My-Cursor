@@ -29,6 +29,7 @@ Premium commercial chibi anime girl sticker, plain white background, soft dark-b
 
 - **青果冻柑橘**：`mint-to-lime jelly hair sheen; cream-and-mint layered dress with translucent jelly-like organza that glows softly; green bats and mint four-point stars as familiars; holds a glossy translucent citrus.`
 - **粉晶体桃**：`soft pink hair with gemlike sheen; rose dress with crystal-facet trim and heart gems; holds ornate glass sundae coupe; stands on a pale-blue magic circle; soap bubbles.`
+- **蓝水晶草莓**：`platinum-to-aqua hair with water-crystal sheen; aqua jelly-crystal translucent dress with soft inner glow; rainbow sepal accents; holds pink-blue spiral lollipop with pink bow; soap bubbles with pink stars.`
 
 ## 禁止
 
